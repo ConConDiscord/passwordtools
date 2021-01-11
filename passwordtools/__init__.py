@@ -1,3 +1,3 @@
-from passwordtools import securestr
-from passwordtools import pin
-from passwordtools import check
+from passwordtools.passwordtools import securestr
+from passwordtools.passwordtools import pin
+from passwordtools.passwordtools import check
