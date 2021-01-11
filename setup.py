@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="passwordtools-TriC",
+    name="passwordtools",
     version="0.0.1",
     author="TriC",
     author_email="parantezdev@gmail.com",

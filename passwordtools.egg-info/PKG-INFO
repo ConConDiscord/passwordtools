@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: passwordtools-TriC
+Name: passwordtools
 Version: 0.0.1
 Summary: Fast password module using the "io" and "random" modules.
 Home-page: https://github.com/ConConDiscord/passwordtools

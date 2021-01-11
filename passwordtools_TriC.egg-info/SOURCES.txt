@@ -1,8 +1,0 @@
-README.md
-setup.py
-passwordtools/__init__.py
-passwordtools/passwordtools.py
-passwordtools_TriC.egg-info/PKG-INFO
-passwordtools_TriC.egg-info/SOURCES.txt
-passwordtools_TriC.egg-info/dependency_links.txt
-passwordtools_TriC.egg-info/top_level.txt
