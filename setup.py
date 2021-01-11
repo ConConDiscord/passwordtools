@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="passwordtools",
-    version="0.0.1",
+    version="0.0.2",
     author="TriC",
     author_email="parantezdev@gmail.com",
     description='Fast password module using the "io" and "random" modules.',
